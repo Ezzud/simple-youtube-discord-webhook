@@ -1,0 +1,9 @@
+{
+	"youtubeChannelID":"Youtube Channel ID",
+	"webhook": {
+		"url":"Discord Webhook URL",
+		"username":"Youtube",
+		"avatar_url":"https://img.freepik.com/icones-gratuites/youtube_318-194847.jpg",
+		"content":"@everyone\n🔔 **New Video** `%VIDEO_TITLE%` **Uploaded!**\n🔗 %VIDEO_URL%"
+	}
+}
